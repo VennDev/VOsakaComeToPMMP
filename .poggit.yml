@@ -1,0 +1,10 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/VennDev/VOsakaComeToPMMP
+build-by-default: true
+branches:
+- main
+projects:
+  VOsakaComeToPMMP:
+    path: ""
+    model: virion
+    type: library
+...
