@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace vosaka\vosakactpmmp;
+namespace venndev\vosakactpmmp;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\scheduler\ClosureTask;
