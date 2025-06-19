@@ -1,0 +1,7 @@
+name: vosaka-ct-pmmp
+version: 1.0.0
+php:
+  - "8.1"
+author: VennDev
+antigen: venndev\vosakactpmmp
+description: Runtime vosaka for pmmp with async await generator
